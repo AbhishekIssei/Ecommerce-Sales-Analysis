@@ -36,8 +36,7 @@ This Power BI dashboard helps stakeholders answer key business questions such as
 
 ## 📈 Dashboard Snapshots
 
-> _You can add screenshots here using Markdown:_
-> 
+
 > ![Dashboard Screenshot](Dashboard/Dashboard.png)
 
 ---
@@ -89,7 +88,7 @@ Feel free to fork this project and enhance it with new features like:
 ## 📬 Contact
 
 **Abhishek Kotian**  
-📧 [Insert your email]  
+📧 abhishek.k.bangera@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-kotian/)  
 🌐 [Portfolio Website](https://your-portfolio-link.com)
 
