@@ -89,8 +89,8 @@ Feel free to fork this project and enhance it with new features like:
 
 **Abhishek Kotian**  
 📧 abhishek.k.bangera@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-kotian/)  
-🌐 [Portfolio Website](https://your-portfolio-link.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-k-191368208)  
+🌐 [Portfolio Website](https://abhishekkotianportfolio.netlify.app/)
 
 ---
 
